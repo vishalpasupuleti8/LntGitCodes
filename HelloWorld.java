@@ -5,6 +5,6 @@ public static void main(String [] args){
 	System.out.println(a);
 	
 	String s="Hello";
-	int b=20;
+		int b=20;
 }
 }

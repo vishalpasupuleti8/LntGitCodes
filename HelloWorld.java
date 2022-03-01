@@ -2,8 +2,9 @@ public class HelloWorld{
 public static void main(String [] args){
 	System.out.println("Hello World from Vishal");
 	int a=10;
-	int b=20;
-	int c=30;
-	int d=40;
+	System.out.println(a);
+	
+	String s="Hello";
+	int b=10;
 }
 }

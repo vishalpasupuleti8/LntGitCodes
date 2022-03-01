@@ -6,5 +6,6 @@ public static void main(String [] args){
 	
 	String s="Hello";
 		int b=20;
+		String s1="Java";
 }
 }
